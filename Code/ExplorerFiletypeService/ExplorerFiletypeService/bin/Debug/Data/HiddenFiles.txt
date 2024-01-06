@@ -1,0 +1,7 @@
+C:\Users\Sven\Desktop\_HIDE TEST\Meta File.meta
+C:\Users\Sven\Desktop\_HIDE TEST\Hide File.hideThis
+C:\Users\Sven\Desktop\_HIDE TEST\Meta File.meta
+C:\Users\Sven\Desktop\_HIDE TEST\Meta File.meta
+C:\Users\Sven\Desktop\_HIDE TEST\Meta File.meta
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\Data\xy.meta
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\Data\xy.meta

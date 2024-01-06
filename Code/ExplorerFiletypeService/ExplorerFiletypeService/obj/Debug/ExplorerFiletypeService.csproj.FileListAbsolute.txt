@@ -1,0 +1,13 @@
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe.config
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.pdb
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.csproj.AssemblyReference.cache
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\Interop.Shell32.dll
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.csproj.ResolveComReference.cache
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.csproj.CoreCompileInputs.cache
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.exe
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.pdb
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.ProjectInstaller.resources
+C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\obj\Debug\ExplorerFiletypeService.csproj.GenerateResource.cache

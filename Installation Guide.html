@@ -1,0 +1,34 @@
+<html>
+    <body>
+        <h2> Installation Filetype Hider</h2>
+        <h4> Open Command Prompt as Administrator </h4>
+        <h4> Type: " cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 "</h4>
+        <h4> Next search the "ExplorerFiletypeService.exe" file inside the folder. </h4>
+        <h4> It should be located under: ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe</h4>
+        <h4> Right click and copy the path. Head back into Command Prompt. </h4>
+        <h4> Type: " InstallUtil.exe [CTRL+V / save path] "</h4>
+        <h4> Now it installs the service. </h4>
+        <br>
+        <h4> To setup the tool, head to: </h4> 
+        <h4> C:\Users\Public\Documents\FourteenDynamics\ExplorerFiletypeHandler </h4> 
+        <h4> Now, open up the "ExtentionsToHide.txt"</h4> 
+        <h4> In here, you can define which types should be hidden. Create a new line and write "*.Filetype" </h4> 
+        <h4> Create a new file of the type you just defined, and wait a few moments (the interval is set to 5 seconds). </h4> 
+        <h4> Now you should see that the file has disappeard. You can open up the "HiddenFiles.txt" file to see all files that have been hidden. DO NOT DELETE THIS FILE </h4> 
+        <h4> If you want to see the Files anyways, you can just show hidden files through the explorer. </h4> 
+        <br>
+        <h4> In case the service doesn't run, click the windows button and search "Services". Open it up and scroll down to "Explorer Filetype Handler".</h4>
+        <h4> Start the service. Here, you can also define if the service should automatically start when windows boots.</h4>
+        <br>
+        <h4> To show all hidden files, stop the service, start it again, and directly stop it again. </h4>
+        <h4> Everytime the service starts, it will show all proviously hidden elements.</h4>
+        <br>
+        <h4> Uninstallation: </h4>
+        <h4> Open Command Prompt as Administrator </h4>
+        <h4> Type: " cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 "</h4>
+        <h4> Next search the "ExplorerFiletypeService.exe" file inside the folder. </h4>
+        <h4> It should be located under: ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe</h4>
+        <h4> Right click and copy the path. Head back into Command Prompt. </h4>
+        <h4> Type: " InstallUtil.exe -u [CTRL+V / save path] "</h4>
+    </body>
+</html>

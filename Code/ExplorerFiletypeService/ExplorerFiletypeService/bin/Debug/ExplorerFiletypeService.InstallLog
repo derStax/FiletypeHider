@@ -1,0 +1,718 @@
+﻿Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Service1 wird installiert...
+Dienst Service1 wurde installiert.
+Die EventLog-Quelle Service1 im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Service1 wird entfernt.
+Der Dienst Service1 wird vom System entfernt...
+Dienst Service1 wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Service1 wird installiert...
+Dienst Service1 wurde installiert.
+Die EventLog-Quelle Service1 im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Service1 wird entfernt.
+Der Dienst Service1 wird vom System entfernt...
+Dienst Service1 wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Service1 wird installiert...
+Dienst Service1 wurde installiert.
+Die EventLog-Quelle Service1 im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Warnung: Die Quelle Explorer Filetype Service ist nicht auf dem lokalen Computer registriert.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Während der Deinstallation des Installers System.ServiceProcess.ServiceInstaller ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst ist kein installierter Dienst
+Während der Deinstallation ist eine Ausnahme aufgetreten. Diese Ausnahme wird ignoriert, und die Deinstallation wird fortgesetzt. Die Anwendung wird jedoch möglicherweise nicht vollständig deinstalliert.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Service1 wird entfernt.
+Der Dienst Service1 wird vom System entfernt...
+Dienst Service1 wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Es wird versucht, den Dienst Explorer Filetype Service zu beenden.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Es wird versucht, den Dienst Explorer Filetype Service zu beenden.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Während der Deinstallation des Installers System.Diagnostics.EventLogInstaller ist eine Ausnahme aufgetreten.
+System.Security.SecurityException: Der angeforderte Registrierungszugriff ist unzulässig.
+Während der Deinstallation ist eine Ausnahme aufgetreten. Diese Ausnahme wird ignoriert, und die Deinstallation wird fortgesetzt. Die Anwendung wird jedoch möglicherweise nicht vollständig deinstalliert.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Während der Deinstallation des Installers System.Diagnostics.EventLogInstaller ist eine Ausnahme aufgetreten.
+System.Security.SecurityException: Der angeforderte Registrierungszugriff ist unzulässig.
+Während der Deinstallation ist eine Ausnahme aufgetreten. Diese Ausnahme wird ignoriert, und die Deinstallation wird fortgesetzt. Die Anwendung wird jedoch möglicherweise nicht vollständig deinstalliert.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Dienst Explorer Filetype Service wurde vom System entfernt.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird deinstalliert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Die EventLog-Quelle Explorer Filetype Service wird entfernt.
+Der Dienst Explorer Filetype Service wird vom System entfernt...
+Während der Deinstallation des Installers System.ServiceProcess.ServiceInstaller ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst ist kein installierter Dienst
+Während der Deinstallation ist eine Ausnahme aufgetreten. Diese Ausnahme wird ignoriert, und die Deinstallation wird fortgesetzt. Die Anwendung wird jedoch möglicherweise nicht vollständig deinstalliert.
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
+Dienst Explorer Filetype Service wird installiert...
+Dienst Explorer Filetype Service wurde installiert.
+Die EventLog-Quelle Explorer Filetype Service im Protokoll Application wird erstellt...
+Assembly C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.InstallLog
+   assemblypath = C:\Users\Sven\source\repos\ExplorerFiletypeService\ExplorerFiletypeService\bin\Debug\ExplorerFiletypeService.exe
